@@ -491,6 +491,22 @@ main,
   }
 }
 
+@media (max-width: 719px) {
+  #sobre .container,
+  #personalizados .container,
+  #faq .container {
+    width: min(980px, calc(100% - 3rem));
+  }
+
+  #sobre p,
+  #personalizados p,
+  #faq .faq-list p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+}
+
 @media (min-width: 980px) {
   .products-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
