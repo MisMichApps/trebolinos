@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "trebol-tarjeta",
+    "name": "Trébol plastificado",
+    "price": 7,
+    "image": "assets/img/trebol1.jpg",
+    "wallapopUrl": "https://es.wallapop.com/",
+    "whatsappMessage": "Hola! Me interesa el trébol plastificado."
+  },
+  {
+    "slug": "trebol-marcapaginas",
+    "name": "Trébol marcapáginas",
+    "price": 8,
+    "image": "assets/img/trebol2.jpg",
+    "wallapopUrl": "https://es.wallapop.com/",
+    "whatsappMessage": "Hola! Me interesa el trébol marcapáginas."
+  },
+  {
+    "slug": "trebol-marco",
+    "name": "Trébol en marco artesanal",
+    "price": 12,
+    "image": "assets/img/trebol3.jpg",
+    "wallapopUrl": "https://es.wallapop.com/",
+    "whatsappMessage": "Hola! Me interesa el trébol en marco artesanal."
+  },
+  {
+    "slug": "trebol-pack",
+    "name": "Pack de tréboles regalo",
+    "price": 14,
+    "image": "assets/img/trebol4.jpg",
+    "wallapopUrl": "https://es.wallapop.com/",
+    "whatsappMessage": "Hola! Me interesa el pack de tréboles regalo."
+  }
+]
